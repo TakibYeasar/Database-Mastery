@@ -1,6 +1,6 @@
 # SQL Mastery
 
-## 1. What is _SQL_ and what is it used for?
+## What is _SQL_ and what is it used for?
 
 ==> **SQL** (**Structured Query Language**) is a domain-specific, declarative programming language designed for managing relational databases. SQL consists of a data definition language, data manipulation language, and a data control language. You can use it to interact with various database systems to insert, update, delete and retrive data.
 
