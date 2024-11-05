@@ -43,3 +43,4 @@ SELECT * FROM Employee;
 -- Delete a table
 DROP TABLE Employee;
 
+```
